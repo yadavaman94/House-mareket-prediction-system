@@ -1,0 +1,6 @@
+{
+  "name": "ProphetEstate: Machine Learning House Market Prediction System",
+  "description": "Advanced real estate valuation and market trend prediction system powered by multi-variable regression, gradient boosted trees, and historical sales analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
